@@ -23,7 +23,7 @@ SDK de verification d'identite 100% on-device pour les documents marocains.
 
 ### SDK (Fat AAR — autonome, zero dependance)
 
-Depuis les [Releases GitHub](https://github.com/khalilbenaz/SDMatch/releases/tag/v1.0.0) :
+Depuis les [Releases GitHub](https://github.com/vantaflow/SDMatch/releases/tag/v1.0.0) :
 
 - **`sdkmatch-sdk-v1.0.0.aar`** (43 MB) — SDK complet avec ML Kit, modeles OCR et Face Detection embarques
 - **`sdkmatch-docs-v1.0.0.zip`** — Documentation complete

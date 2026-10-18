@@ -6,7 +6,7 @@
 
 #### 1. Ajouter le Fat AAR
 
-Telecharger `sdkmatch-sdk-v1.0.0.aar` depuis les [Releases](https://github.com/khalilbenaz/SDMatch/releases) et le placer dans `app/libs/`.
+Telecharger `sdkmatch-sdk-v1.0.0.aar` depuis les [Releases](https://github.com/vantaflow/SDMatch/releases) et le placer dans `app/libs/`.
 
 ```kotlin
 // app/build.gradle.kts
@@ -92,7 +92,7 @@ recognizer.process(image)
         // Detecter le type de document
         val detection = DocumentDetector.detect(ocrText)
         // detection.type = "CIN_V2"
-        // detection.fields = {nom: "BENAZZOUZ", prenom: "KHALIL", cin: "XX123456", ...}
+        // detection.fields = {nom: "BEN SALAH", prenom: "AMINE", cin: "XX123456", ...}
 
         // Parser la MRZ si presente
         val mrz = MrzParser.parse(ocrText)

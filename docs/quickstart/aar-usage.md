@@ -41,7 +41,7 @@ Guide exhaustif pour integrer `sdkmatch-sdk-v1.0.0.aar` dans une application And
 
 ### Etape 1 — Telecharger le AAR
 
-Depuis les [Releases GitHub](https://github.com/khalilbenaz/SDMatch/releases/tag/v1.0.0) :
+Depuis les [Releases GitHub](https://github.com/vantaflow/SDMatch/releases/tag/v1.0.0) :
 
 ```
 sdkmatch-sdk-v1.0.0.aar (43 MB)
@@ -368,7 +368,7 @@ private fun analyzeDocument(ocrText: String, bitmap: Bitmap) {
 
     // Exemple de champs pour une CIN v2 :
     // cin = AB123456
-    // nom = BENAZZOUZ
+    // nom = BEN SALAH
     // prenom = KHALIL
     // date_naissance = 15/03/1995
     // lieu_naissance = CASABLANCA

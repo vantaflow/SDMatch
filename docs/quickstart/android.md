@@ -10,7 +10,7 @@ Integrer SDK MATCH dans votre application Android en 5 minutes.
 
 ## 1. Ajouter le SDK
 
-Telecharger `sdkmatch-sdk-v1.0.0.aar` depuis les [Releases](https://github.com/khalilbenaz/SDMatch/releases) et le copier dans `app/libs/`.
+Telecharger `sdkmatch-sdk-v1.0.0.aar` depuis les [Releases](https://github.com/vantaflow/SDMatch/releases) et le copier dans `app/libs/`.
 
 ```kotlin
 // app/build.gradle.kts

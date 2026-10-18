@@ -15,14 +15,14 @@ Integrer SDK MATCH dans votre application iOS en 5 minutes.
 Dans Xcode : File > Add Package Dependencies, puis ajouter :
 
 ```
-https://github.com/khalilbenaz/SDMatch.git
+https://github.com/vantaflow/SDMatch.git
 ```
 
 Ou dans `Package.swift` :
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/khalilbenaz/SDMatch.git", from: "1.0.0")
+    .package(url: "https://github.com/vantaflow/SDMatch.git", from: "1.0.0")
 ]
 ```
 
